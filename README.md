@@ -21,7 +21,7 @@ Python3
 ### Run the project
 1. Download the dataset
 
-Link: ![Dataset](http://fenix.univ.rzeszow.pl/~mkepski/ds/uf.html)
+Link: [Dataset](http://fenix.univ.rzeszow.pl/~mkepski/ds/uf.html)
 
 Make sure you download all the .zip file in RGB-Camera1 file in Fall and ADVL
 
